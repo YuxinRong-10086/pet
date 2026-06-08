@@ -1,4 +1,4 @@
-public class Welcome{
+public class PetTester{
     public static void main(String[] args){
     Dog dog1 = new Dog("Buddy",3,"Golden Retriever",60,"seeing eye");
 
